@@ -1,5 +1,5 @@
 # About 👨🏽‍💻
-Cloudflare tunnel can establish connections between end user and your server, how ? -> By outbounding connection between your resource/service and cloudflare global network. Cloudflare tunnel have tonnes of feature and capibilities like setting up tunnels with domain names, dashboard but in this setup only needed tings have been setup so that configurations and dependicies do not mess up the build. You can setup this by running [Installation-Script](https://github.com/myselfakashagarwal/gitserver/blob/main/setup_cloudflared.sh)
+Cloudflare tunnel can establish connections between end user and your server, how ? -> By outbounding connection between your resource/service and cloudflare global network. Cloudflare tunnel have tonnes of feature and capibilities like setting up tunnels with domain names, dashboard but in this setup only needed tings have been setup so that configurations and dependicies do not mess up the build. You can setup this by running [Installation-Script](https://github.com/myselfakashagarwal/gitserver/blob/legacy/setup_cloudflared.sh)
 
 # Run your tunnel ⚙︎
 In regular you can pre create your tunnels by following up this [tutorial](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/get-started/create-local-tunnel/) yet for fast setup just create a local tunnel.

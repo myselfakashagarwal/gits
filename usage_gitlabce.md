@@ -1,10 +1,10 @@
 
 # About 👨🏽‍💻
 In simple terms gitlab-ce is community edition of the GitLab. The CE version can be used to host own git server and provide web interface for repos at the same time have other features too like CICD, Docker registery etc.
-This can easily be this script [Installation-Script](https://github.com/myselfakashagarwal/gitserver/blob/main/setup_gitlabce.sh)
+This can easily be this script [Installation-Script](https://github.com/myselfakashagarwal/gitserver/blob/legacy/setup_gitlabce.sh)
 
 ## Access 🔑
-Initially when the setup is done (with the [Installation-Script](https://github.com/myselfakashagarwal/gitserver/blob/main/setup_gitlabce.sh) ) In the initial setup by the script root/admin's password is provided by the script by which one can easily access the admin dashboard. But the initial root password is only valid for 24 hrs thus have to be changed by the admin. If unfamilier with GitLab its advised to watch beginer tutorials to get through. Here are the commands to get through quickly.
+Initially when the setup is done (with the [Installation-Script](https://github.com/myselfakashagarwal/gitserver/blob/legacy/setup_gitlabce.sh) ) In the initial setup by the script root/admin's password is provided by the script by which one can easily access the admin dashboard. But the initial root password is only valid for 24 hrs thus have to be changed by the admin. If unfamilier with GitLab its advised to watch beginer tutorials to get through. Here are the commands to get through quickly.
 
 ⎇ To get url of the web interface 
 ```bash

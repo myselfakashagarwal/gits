@@ -1,6 +1,6 @@
 # About 👨🏽‍💻
 In a nutshell cockpit provides webinterface to your server with its help its easier to maintain and moniter system ligs, services etc it also provides a terminal in web thus empowering user to access server console from any machine.
-This can easily be this script [Installation-Script](https://github.com/myselfakashagarwal/gitserver/blob/main/setup_cockpit.sh)
+This can easily be this script [Installation-Script](https://github.com/myselfakashagarwal/gitserver/blob/legacy/setup_cockpit.sh)
 
 # Access 🔑
 The web interface can be accessed on port 9090 , all it needs is username and password in order you want to moderate access visit config file at path `/etc/cockpit/cockpit.conf`.
